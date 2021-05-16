@@ -25,9 +25,9 @@ Hare Krishna, my name is Ritik Dagar and I am a Bachelor's student at [SRMIST](h
 **Languages and Tools:** 
 
 ![Cpp](https://img.shields.io/badge/-Cpp-black?logo=cpp&style=social)&nbsp;&nbsp;
-![ML](https://img.shields.io/badge/-Machine Learning-black?logo=cpp&style=social)&nbsp;&nbsp;
-![AI](https://img.shields.io/badge/-Artificial Intelligence-black?logo=cpp&style=social)&nbsp;&nbsp;
-![DL](https://img.shields.io/badge/-Deep Learning-black?logo=cpp&style=social)&nbsp;&nbsp;
+![ML](https://img.shields.io/badge/-Machine-Learning-black?logo=cpp&style=social)&nbsp;&nbsp;
+![AI](https://img.shields.io/badge/-Artificial-Intelligence-black?logo=cpp&style=social)&nbsp;&nbsp;
+![DL](https://img.shields.io/badge/-Deep-Learning-black?logo=cpp&style=social)&nbsp;&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS%20Framework-black?logo=react&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
