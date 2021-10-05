@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hare Krishna, my name is Ritik Dagar and I am a Bachelor's student at [SRMIST](https://www.srmist.edu.in/) majoring in Computer Science and Engineering. I am a full-stack software developer working as a Software Engineer at [Barclays](https://home.barclays/) My technology stack involves Data Science(ML Algorithms, AI and Deep Learning), C++, ReactJS, MySQL, MongoDB, javascript, Node.js, and, HTML/CSS/Bootstrap. I love Competitive Programming. Besides programming, I have an immense interest in Spirituality.
+Hare Krishna, my name is Ritik Dagar and I have completed my Bachelor's degree at [SRMIST](https://www.srmist.edu.in/) majoring in Computer Science and Engineering. I am working as a Graduate Analyst at [Barclays](https://home.barclays/) My technology stack involves Data Science(ML Algorithms, AI and Deep Learning), C++, MySQL, MongoDB, javascript, Node.js, and, HTML/CSS/Bootstrap. I love Competitive Programming. Besides programming, I have an immense interest in Spirituality.
 
 - 🔭 I’m currently researching "Sanskrit as an upcoming coding language"
 - 💬 Brainstorm with me over tech, algorithms, career, and Spirit/Soul Happiness
