@@ -68,19 +68,6 @@ https://github.com/Ritik2703/Data-Engineering-Handbook-Mastery-From-Beginner-to-
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ritik2703&show_icons=true&count_private=true&theme=tokyonight" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik2703&layout=compact&theme=tokyonight" width="35%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik2703&theme=tokyonight" width="60%"/>
-</p>
-
----
-
 ### 🤝 Connect With Me
 <p>
 <a href="https://www.linkedin.com/in/ritik-270308/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
