@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Dagar</h1>
-<h3 align="center">Senior Data Engineer @ Barclays | Cloud Data Architect (Azure + AWS) | ETL • Data Warehousing • Analytics Engineering</h3>
+<h3 align="center">Senior Data Engineer @ Barclays | Cloud Data Architect (AWS + Azure) | ETL • Data Warehousing • Analytics Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C4CC&center=true&vCenter=true&width=650&lines=Building+scalable+data+pipelines+at+enterprise+scale;Azure+%7C+AWS+%7C+Snowflake+%7C+Databricks;Turning+raw+data+into+decisions;Hare+Krishna+%F0%9F%9A%80" alt="Typing SVG" />
@@ -11,12 +11,11 @@
 
 I'm a **Senior Data Engineer at Barclays**, working at the intersection of **legacy enterprise data systems** and **modern cloud-native architectures**. I design, build, and optimize ETL/ELT pipelines that move and transform large-scale data reliably across **Azure and AWS** ecosystems.
 
-- 🏦 Currently: **Senior Data Engineer @ Barclays** (BFSI / MNC scale data systems)
-- ☁️ Core stack: **Azure (ADF, Synapse) + AWS (Glue, EMR, Athena, Redshift, S3, Lambda, EC2/RDS)**
+- 🏦 Currently: **Senior Data Engineer @ Barclays**
+- ☁️ Core stack: **AWS (Glue, EMR, Athena, Redshift, S3, Lambda, EC2/RDS) + Azure (ADF, Synapse)**
 - 🧱 Warehousing & Modeling: **Snowflake, Databricks, SQL Server, MySQL**
 - 🐍 Languages: **Python, SQL, PySpark**
 - 📊 Visualization: **Tableau, Power BI**
-- 🎓 **AWS Cloud Practitioner → Solutions Architect Associate** — certification track in progress
 - 🔭 Currently exploring: real-time streaming pipelines & lakehouse architectures
 - 💬 Ask me about: ETL design, data pipeline optimization, cloud data migration, dashboarding
 - 📫 Reach me: **ritikdagar0203@gmail.com**
@@ -65,7 +64,7 @@ I'm a **Senior Data Engineer at Barclays**, working at the intersection of **leg
 ---
 
 ### 📌 Pinned / Featured Work
-> Replace these with your top 4–6 real repos (AWS Glue/Redshift ETL pipeline, Databricks project, Snowflake data model, dashboard project). Pin them from the Repositories tab so they show as cards above this README automatically.
+https://github.com/Ritik2703/Data-Engineering-Handbook-Mastery-From-Beginner-to-Production
 
 ---
 
@@ -84,9 +83,9 @@ I'm a **Senior Data Engineer at Barclays**, working at the intersection of **leg
 
 ### 🤝 Connect With Me
 <p>
-<a href="https://www.linkedin.com/in/ritik-dagar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ritik-270308/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/RitikDagar8" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://ritikdagar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>💭 Chant Hare Krishna and be Happy</i></p>
+<p align="center"><i>💭 Chant Radha Vallabh Shree Harivansh and be Happy</i></p>
