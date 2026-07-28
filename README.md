@@ -19,7 +19,7 @@ I'm a **Senior Data Engineer at Barclays**, working at the intersection of **leg
 - 🔭 Currently exploring: real-time streaming pipelines & lakehouse architectures
 - 💬 Ask me about: ETL design, data pipeline optimization, cloud data migration, dashboarding
 - 📫 Reach me: **ritikdagar0203@gmail.com**
-- 🌐 Portfolio: **[ritikdagar.netlify.app](https://ritikdagar.netlify.app/)**
+- 🌐 Portfolio: **[Aboutme@ritikdagar](https://ritik-dagar.netlify.app/)**
 
 ---
 
@@ -72,7 +72,7 @@ https://github.com/Ritik2703/Data-Engineering-Handbook-Mastery-From-Beginner-to-
 <p>
 <a href="https://www.linkedin.com/in/ritik-270308/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/RitikDagar8" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://ritikdagar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://ritik-dagar.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>💭 Chant Radha Vallabh Shree Harivansh and be Happy</i></p>
