@@ -85,7 +85,7 @@ Claude API | LangChain | Vector Embeddings | Scikit-learn
 
 ---
 
-## 🎯 Featured Woek/Projects
+## 🎯 Featured Work/Projects
 
 ### 1. 📊 **Data Engineering Handbook: Mastery From Beginner to Production** ⭐⭐⭐⭐⭐
 A complete, zero-to-hero Data Engineering curriculum — 16 modules covering everything from absolute fundamentals to system design judgment that separates a Data Engineer from a Senior/Architect, the governance/quality/MLOps maturity that separates a "best possible" resource from a good one, AND the 2026 frontier of AI-native data engineering (RAG, MCP, AI agents). Legacy tools AND cutting-edge tech, both covered honestly, side by side, with real company context throughout.
